@@ -13,8 +13,8 @@ A simple Java console-based application for managing a cafe. This project allows
 * 5% off for orders above ₹399
 
 ## Running the program 
-javac CafeManagementSystem.java
-java CafeManagementSystem
+* javac CafeManagementSystem.java
+* java CafeManagementSystem
 
 ## SAMPLE OUTPUT
 **** WELCOME TO MOONBUCKS CAFE ****
