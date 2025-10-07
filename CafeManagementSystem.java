@@ -133,8 +133,8 @@ class CafeManagementSystem {
 
     public static void pause(Scanner scanner) {
         System.out.print("\nPress Enter to continue...");
-        scanner.nextLine(); // Consume newline
-        scanner.nextLine(); // Wait for Enter
+        scanner.nextLine(); 
+        scanner.nextLine(); 
     }
 
     public static void main(String[] args) {
@@ -232,3 +232,4 @@ class CafeManagementSystem {
         }
     }
 }
+
